@@ -1,8 +1,3 @@
-To: Lead Automation Engineer
-From: Project 1: Adaptive Cruise Control
-Date: July 7, 2025
-Subject: Final Project Report with Mathematical Formulation
-
 ### **1.0 System Analysis**
 This report details the design and evolution of a complete Adaptive Cruise Control (ACC) system, from initial dynamic modeling to a final implementation using Model Predictive Control (MPC).
 
